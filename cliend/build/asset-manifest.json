@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5b56d51.css",
+    "main.js": "/static/js/main.fee9c73a.js",
+    "static/media/joyful-attractive-lady-having-fun-while-pointing-up-with-both-index-fingers-isolated-pink.jpg": "/static/media/joyful-attractive-lady-having-fun-while-pointing-up-with-both-index-fingers-isolated-pink.940fb82338a84a963b55.jpg",
+    "static/media/j.jpg": "/static/media/j.e066fe2d95c7706464df.jpg",
+    "static/media/running.jpg": "/static/media/running.a42b9d53aba10c805f61.jpg",
+    "static/media/tracker.jpg": "/static/media/tracker.07b45ced286e1767b57a.jpg",
+    "static/media/frame.png": "/static/media/frame.3a238e5f26d676376e1d.png",
+    "static/media/172819.png": "/static/media/172819.cc13ef1c65cfbb4f8d85.png",
+    "index.html": "/index.html",
+    "main.f5b56d51.css.map": "/static/css/main.f5b56d51.css.map",
+    "main.fee9c73a.js.map": "/static/js/main.fee9c73a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5b56d51.css",
+    "static/js/main.fee9c73a.js"
+  ]
+}
